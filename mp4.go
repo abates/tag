@@ -42,6 +42,7 @@ var atoms = atomNames(map[string]string{
 	"tmpo":    "tempo",
 	"cpil":    "compilation",
 	"disk":    "disc",
+	"ldes":    "long_description",
 })
 
 // Detect PNG image if "implicit" class is used
